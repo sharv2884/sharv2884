@@ -278,9 +278,7 @@ Joined Empulse Global as a Graduate Engineer Trainee with a focus on software qu
 ## 〈 GitHub Trophies 〉
 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sharv2884&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
+<img src="https://github-profile-trophy.vercel.app/?username=sharv2884&theme=onestar&no-frame=true&no-bg=false&margin-w=6&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
 </div>
 
 ---
