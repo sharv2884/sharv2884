@@ -34,12 +34,12 @@ My toolkit for building, testing, and slowly becoming an AI engineer:
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sharv2884&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD" />
-<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sharv2884&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&text_color=C4B5FD&langs_count=8" />
+<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sharv2884&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D1A&title_color=D2042D&icon_color=D2042D&text_color=FF6B6B" />
+<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sharv2884&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=D2042D&text_color=FF6B6B&langs_count=8" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=sharv2884&theme=midnight-purple&hide_border=true&background=0D0D1A&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=A78BFA&sideNums=A78BFA&dates=6D28D9" />
+<img src="https://streak-stats.demolab.com/?user=sharv2884&theme=midnight-purple&hide_border=true&background=0D0D1A&ring=D2042D&fire=D2042D&currStreakLabel=FF6B6B&sideLabels=FF6B6B&currStreakNum=D2042D&sideNums=D2042D&dates=8B0000" />
 
 </div>
 
